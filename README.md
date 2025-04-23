@@ -94,9 +94,3 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📞 Contato
 
 Fique à vontade para entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/cmiguelwm/) para dúvidas ou sugestões.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
